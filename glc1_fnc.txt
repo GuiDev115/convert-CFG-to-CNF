@@ -1,0 +1,8 @@
+S' -> A'S | a | B'S | b | c | A'T1 | .
+S -> A'S | a | B'S | b | c | A'T1
+C -> c
+D -> A'T1
+A' -> a
+B' -> b
+C' -> c
+T1 -> B'C'
