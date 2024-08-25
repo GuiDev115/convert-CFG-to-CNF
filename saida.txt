@@ -1,2 +1,0 @@
-S' -> aS | a | bS | b | c | abc | .
-S -> aS | a | bS | b | c | abc
